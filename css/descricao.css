@@ -1,0 +1,67 @@
+p {
+    text-align: center;
+}
+
+#fluxo-img {
+    width: 25%;
+    margin-left: 18%;
+}
+
+.texto-a-img {
+    width: 400px;
+}
+
+.titulo-a {
+    margin-left: 6em;
+    width: 10%;
+}
+
+.texto-a {
+    margin-left: 5em;
+}
+
+#equilibrio-img {
+    width: 12%;
+    margin-left: 24%;
+}
+
+.texto-b-img {
+    width: 400px;
+    margin-left: 50%;
+    margin-top: -311px;
+}
+
+.titulo-b {
+    margin-left: 7em;
+    width: 10%;
+}
+
+.texto-b {
+    margin-left: 5em;
+}
+
+#limite-img {
+    width: 12%;
+    margin-left: 25%;
+}
+
+.texto-c-img {
+    width: 400px;
+    margin-left: 100%;
+    margin-top: -357px;
+}
+
+.titulo-c {
+    margin-left: 108px;
+    width: 10%;
+}
+
+.texto-c {
+    margin-left: 5em;
+    text-align: center;
+}
+
+#cadastro {
+    background: #22242b;
+    padding: 63px 42px 73px;
+}
